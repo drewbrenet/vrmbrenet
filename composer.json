@@ -12,5 +12,9 @@
         "psr-4": {
             "BookingApp\\": "src"
         }
+    },
+    "require-dev": {
+        "symfony/browser-kit": "^4.1",
+        "symfony/css-selector": "^4.1"
     }
 }

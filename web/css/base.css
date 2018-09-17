@@ -2,12 +2,12 @@
  * Css file for Booking app base styling
  */
 body {
-    background-color: #FFFFFF;
+    background-color: #F5f5f5;
 }
 
 h2 {
     font-size: 1.2em;
-    color: #4CA5A5;
+    color: #4286f4;
 }
 
 .content {
@@ -19,8 +19,7 @@ h2 {
 }
 
 .header {
-    background-color: #D9F8F8;
-    border-bottom: .25em solid #4CA5A5;
+    background-color: #4286f4;
     display: -webkit-flex;
     display: flex;
     height: 5em;
@@ -31,7 +30,7 @@ h2 {
 }
 
 .header__heading {
-    color: #4CA5A5;
+    color: #4286f4;
     float: left;
     font-size: 2em;
     font-weight: 700;
@@ -47,7 +46,6 @@ h2 {
 
 .footer {
     background-color: #D9F8F8;
-    border-top: .25em solid #4CA5A5;
     bottom: 0;
     display: block;
     height: 2.5em;
@@ -60,7 +58,7 @@ h2 {
 }
 
 .footer__text {
-    color: #4CA5A5;
+    color: #FFFFFF;
     font-size: 1em;
     padding: .5em;
     -webkit-box-sizing: border-box;
@@ -69,5 +67,5 @@ h2 {
 }
 
 .footer__text a {
-    color: #4CA5A5;
+    color: #FFFFFF;
 }
